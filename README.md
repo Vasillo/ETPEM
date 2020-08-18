@@ -1,6 +1,6 @@
 # ETPEM
 Engine and Trinkets: Part Enhancement Mod
-V0.1
+V0.1.1
 
 Thank you for downloading and trying out ETPEM.
 This mod was made possible by Lewinator.
