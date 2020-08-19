@@ -5,6 +5,9 @@ V0.1.2
 INSTALLATION:
 Select the SLP file using the modloader's "add" option
 
+UPDATING:
+Delete the mod from the modloader, apply profile, then reinstall as normal.
+
 Thank you for downloading and trying out ETPEM.
 This mod was made possible by Lewinator.
 If you have any issues or bugs, please report them in the "issues" section on Github
