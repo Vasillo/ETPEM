@@ -1,4 +1,4 @@
-# ETPEM
+# ETPEM > Please download Via "releases"
 Engine and Trinkets: Part Enhancement Mod
 
 Download has been moved to Releases.
