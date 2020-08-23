@@ -17,3 +17,15 @@ Thanks to GlizzyGladiator for assisting with bug testing.
 If you have any issues or bugs, please report them in the "issues" section on Github
 If you want to suggest any additions, Please join the discord. https://discord.gg/kR7g8Re
 
+What does ETPEM add?
+
+As of V0.1.3.1
+
+New Engines
+Modular Marine Engines
+Cosmetic blocks for radials
+New air intakes and exhausts
+New radiators
+New propellers
+New blocks
+New pivots
