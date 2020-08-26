@@ -19,7 +19,7 @@ If you want to suggest any additions, Please join the discord. https://discord.g
 
 What does ETPEM add?
 
-As of V0.1.3.1
+As of V0.1.2
 
 New Engines
 Modular Marine Engines
